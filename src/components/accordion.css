@@ -1,0 +1,11 @@
+.marginbtm20{
+    margin-bottom:20px;
+    display: inline-flex;
+}
+.margin10{
+    width:100px;
+    /* margin-right:10px; */
+}
+.margin20{
+    margin-bottom: 20px;
+}
